@@ -1,4 +1,4 @@
-# node-utils-template
+# @keminghe/node-utils-template
 
 [![NPM version](https://img.shields.io/npm/v/@keminghe/node-utils-template.svg)](https://www.npmjs.com/package/@keminghe/node-utils-template)
 [![License](https://img.shields.io/npm/l/@keminghe/node-utils-template.svg)](https://github.com/KemingHe/node-utils-template/blob/main/LICENSE)
