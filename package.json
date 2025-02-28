@@ -1,5 +1,5 @@
 {
-  "name": "node-utils-template",
+  "name": "@keminghe/node-utils-template",
   "version": "1.0.1",
   "type": "module",
   "description": "Template for creating TypeScript utility packages for publishing to NPM registry. MIT license.",
