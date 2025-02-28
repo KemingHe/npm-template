@@ -1,5 +1,11 @@
 # node-utils-template
 
+## 1.0.6
+
+### Patch Changes
+
+- [#13](https://github.com/KemingHe/npm-template/pull/13) [`c18e725`](https://github.com/KemingHe/npm-template/commit/c18e725cf247adac458cf8768e88a5e2419d155a) Thanks [@KemingHe](https://github.com/KemingHe)! - Added tagging and publish documentation in docs/, added ref to instruction in readmd
+
 ## 1.0.5
 
 ### Patch Changes
