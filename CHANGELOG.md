@@ -1,5 +1,15 @@
 # npm-template
 
+## 1.0.7
+
+### Patch Changes
+
+- [#15](https://github.com/KemingHe/npm-template/pull/15) [`cb1ca8f`](https://github.com/KemingHe/npm-template/commit/cb1ca8f6f26702566ae0d6060c68db8d308c8fa3) Thanks [@KemingHe](https://github.com/KemingHe)! - Restricted publish to be from original repo only, prevent fork publish action, as best practice across all actions
+
+- [#15](https://github.com/KemingHe/npm-template/pull/15) [`cb1ca8f`](https://github.com/KemingHe/npm-template/commit/cb1ca8f6f26702566ae0d6060c68db8d308c8fa3) Thanks [@KemingHe](https://github.com/KemingHe)! - Updated dev dependencies
+
+- [#15](https://github.com/KemingHe/npm-template/pull/15) [`cb1ca8f`](https://github.com/KemingHe/npm-template/commit/cb1ca8f6f26702566ae0d6060c68db8d308c8fa3) Thanks [@KemingHe](https://github.com/KemingHe)! - Corrected remaining pkg name in changeset config and CHANGELOG due to recent rename
+
 ## 1.0.6
 
 ### Patch Changes
