@@ -1,5 +1,11 @@
 # node-utils-template
 
+## 1.0.3
+
+### Patch Changes
+
+- [#7](https://github.com/KemingHe/node-utils-template/pull/7) [`7a1a6d3`](https://github.com/KemingHe/node-utils-template/commit/7a1a6d36568e9c7ea883b8f1ee679ea249c953c9) Thanks [@KemingHe](https://github.com/KemingHe)! - Fixed readme license badge not linking/displaying correctly, trivial
+
 ## 1.0.2
 
 ### Patch Changes
