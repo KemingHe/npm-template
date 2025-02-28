@@ -9,7 +9,7 @@ on:
 
 jobs:
   unit-test:
-    if: github.repository == 'KemingHe/node-utils-template'
+    if: github.repository == 'KemingHe/npm-template'
     runs-on: ubuntu-latest
     permissions:
       contents: read
