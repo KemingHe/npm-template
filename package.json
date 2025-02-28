@@ -1,6 +1,6 @@
 {
   "name": "@keminghe/npm-template",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "description": "Template for creating TypeScript utility packages for publishing to NPM registry. MIT license.",
   "main": "./dist/index.cjs",
