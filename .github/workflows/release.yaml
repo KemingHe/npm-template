@@ -1,4 +1,4 @@
-name: Version
+name: Release
 
 on:
   push:
@@ -9,7 +9,7 @@ concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   release:
-    if: github.repository == 'KemingHe/node-utils-template' && github.ref == 'refs/heads/main'
+    if: github.repository == 'KemingHe/npm-template' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: write
