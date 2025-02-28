@@ -141,6 +141,14 @@ pnpm build    # Build package
 pnpm verify   # Full verification
 ```
 
+## 🏷️ Release Process
+
+See [Tag and Publish Guide](https://github.com/KemingHe/npm-template/blob/main/docs/tag-and-publish.md) for detailed instructions on:
+
+- Setting up GPG signing
+- Creating signed Git tags
+- Automatic NPM publishing via GitHub Actions
+
 ## 🤝 Contributing
 
 1. Fork the repository to your GitHub account
