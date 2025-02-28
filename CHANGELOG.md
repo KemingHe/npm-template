@@ -1,5 +1,13 @@
 # node-utils-template
 
+## 1.0.2
+
+### Patch Changes
+
+- [#5](https://github.com/KemingHe/node-utils-template/pull/5) [`c70c689`](https://github.com/KemingHe/node-utils-template/commit/c70c689277215f789c595724437cffecd63dc773) Thanks [@KemingHe](https://github.com/KemingHe)! - Updated README title to reflect package name update
+
+- [#5](https://github.com/KemingHe/node-utils-template/pull/5) [`4b9d099`](https://github.com/KemingHe/node-utils-template/commit/4b9d09946ee9e0c98a7dcccaadee521d2f558f0e) Thanks [@KemingHe](https://github.com/KemingHe)! - Corrected package name to start with @keminghe/ (GitHub username, lowercase) for best practice and not to congest public package naming space
+
 ## 1.0.1
 
 ### Patch Changes
