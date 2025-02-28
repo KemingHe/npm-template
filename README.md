@@ -1,6 +1,6 @@
 # @keminghe/node-utils-template
 
-[![NPM version](https://img.shields.io/npm/v/@keminghe/node-utils-template.svg)](https://www.npmjs.com/package/@keminghe/node-utils-template)
+![NPM Version](https://img.shields.io/npm/v/%40keminghe%2Fnode-utils-template)
 ![NPM License](https://img.shields.io/npm/l/%40keminghe%2Fnode-utils-template)
 [![codecov](https://codecov.io/gh/KemingHe/node-utils-template/graph/badge.svg?token=ryf67P7bm9)](https://codecov.io/gh/KemingHe/node-utils-template)
 
