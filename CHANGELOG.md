@@ -1,5 +1,11 @@
 # node-utils-template
 
+## 1.0.4
+
+### Patch Changes
+
+- [#9](https://github.com/KemingHe/node-utils-template/pull/9) [`444663f`](https://github.com/KemingHe/node-utils-template/commit/444663f254c6a6bfbd88564606c9d347b6b9cff8) Thanks [@KemingHe](https://github.com/KemingHe)! - Corrected readme npm version badge with official link, trivial
+
 ## 1.0.3
 
 ### Patch Changes
