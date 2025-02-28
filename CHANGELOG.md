@@ -1,5 +1,11 @@
 # node-utils-template
 
+## 1.0.5
+
+### Patch Changes
+
+- [#11](https://github.com/KemingHe/npm-template/pull/11) [`1fa0582`](https://github.com/KemingHe/npm-template/commit/1fa05827578a3672e0e3e1341f272b4aa04fbd3f) Thanks [@KemingHe](https://github.com/KemingHe)! - Simplified and updated pkg name to npm-template, also updated corresponding workflows
+
 ## 1.0.4
 
 ### Patch Changes
