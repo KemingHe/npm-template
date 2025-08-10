@@ -1,4 +1,11 @@
-# @keminghe/npm-template
+# ⚠️ [Archived] ⚠️ @keminghe/npm-template
+
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> - **Archived**: 2025-08-10 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive reason**: moved on to more focused agentic AI development
+> - **Inquries and corrections**: email [keminghe.career@gmail.com](mailto:keminghe.career@gmail.com)
 
 ![npm-template social preview - TypeScript utility package template by KemingHe](https://socialify.git.ci/KemingHe/npm-template/image?description=1&language=1&name=1&owner=1&theme=Light)
 
